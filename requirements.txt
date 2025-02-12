@@ -1,0 +1,7 @@
+phidata
+groq
+ollama
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
